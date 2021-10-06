@@ -1,0 +1,98 @@
+﻿[2021/10/06 13:49:48 Informational] ------ Discover test started ------
+[2021/10/06 13:51:28 Warning] No test is available in C:\Users\Mahlomola\source\repos\UnitTestProject1pizza\UnitTestProject1pizza\UnitTestProject1pizza.csproj. Make sure that test discoverer & executors are registered and platform & framework version settings are appropriate and try again.
+[2021/10/06 13:51:29 Informational] ========== Discover test finished: 0 found (0:01:41,3401939) ==========
+[2021/10/06 13:51:32 Informational] ------ Discover test started ------
+[2021/10/06 13:51:49 Informational] NUnit Adapter 3.17.0.0: Test discovery starting
+[2021/10/06 13:52:04 Informational] NUnit Adapter 3.17.0.0: Test discovery complete
+[2021/10/06 13:52:19 Warning] No test is available in C:\Users\Mahlomola\source\repos\UnitTestProject1pizza\UnitTestProject1pizza\UnitTestProject1pizza.csproj. Make sure that test discoverer & executors are registered and platform & framework version settings are appropriate and try again.
+[2021/10/06 13:52:20 Informational] ========== Discover test finished: 1 found (0:00:47,8201885) ==========
+[2021/10/06 13:52:20 Informational] ------ Run test started ------
+[2021/10/06 13:52:22 Informational] NUnit Adapter 3.17.0.0: Test execution started
+[2021/10/06 13:52:22 Informational] Running all tests in C:\Users\Mahlomola\source\repos\UnitTestProject1pizza\UnitTestProject1pizza\bin\Debug\UnitTestProject1pizza.dll
+[2021/10/06 13:52:23 Informational]    NUnit3TestExecutor discovered 0 of 0 NUnit test cases
+[2021/10/06 13:52:23 Informational] NUnit Adapter 3.17.0.0: Test execution complete
+[2021/10/06 13:52:24 Informational] SpecFlow+Runner execution started
+[2021/10/06 13:52:24 Informational] SpecFlow+Runner 3.9.7 in Framework clr40 in x86 mode execution started
+[2021/10/06 13:52:24 Informational] TestAdapter Location: C:\Users\Mahlomola\source\repos\UnitTestProject1pizza\packages\SpecRun.Runner.3.9.7\tools\net461\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+[2021/10/06 13:52:24 Informational] Current UserName: 'Mahlomola', MachineName: 'LAPTOP-P2LGTPPP'
+[2021/10/06 13:52:25 Informational] SpecRun: running tests in C:\Users\Mahlomola\source\repos\UnitTestProject1pizza\UnitTestProject1pizza\bin\Debug\UnitTestProject1pizza.dll
+[2021/10/06 13:52:25 Informational] Output folder configured to "C:\Users\Mahlomola\source\repos\UnitTestProject1pizza\TestResults" (default)
+[2021/10/06 13:52:25 Informational] Profile: 
+[2021/10/06 13:52:25 Informational] Log file path: C:\Users\Mahlomola\source\repos\UnitTestProject1pizza\TestResults\Unnamed project__2021-10-06T135225.log
+[2021/10/06 13:52:25 Informational] Checking activation
+[2021/10/06 13:52:26 Error] ****************************************************************************************************************
+[2021/10/06 13:52:26 Error] *                                           SpecFlow+ Runner                                                   *
+[2021/10/06 13:52:26 Error] ****************************************************************************************************************
+[2021/10/06 13:52:26 Error] Please sign-up for your free SpecFlow account or sign-in with your already existing account here:
+[2021/10/06 13:52:26 Error] https://account.specflow.org/clientactivation/welcome/Runner/0FB10A797D8E4FCC8964F46F707675CD81C1977C9B2C7CA174F59F327FAB5FADAFCF6184/NotActivatedYet
+[2021/10/06 13:52:26 Error] to execute your Scenarios again.
+[2021/10/06 13:52:26 Error] If you are reading this message on a build agent, we couldn't recognize the agent.
+[2021/10/06 13:52:26 Error] Please get in touch with us at support@specflow.org.
+[2021/10/06 13:52:26 Error] ****************************************************************************************************************
+[2021/10/06 13:52:26 Error] No tests executed (activation needed)
+[2021/10/06 13:52:26 Informational] Result: tests executed with warnings
+[2021/10/06 13:52:26 Informational]   Total: 0
+  Succeeded: 0
+  Ignored: 0
+  Pending: 0
+  Skipped: 0
+  Failed: 0
+
+  Execution Time: 00:00:00
+[2021/10/06 13:52:26 Informational] Adding attachments to VSTest
+[2021/10/06 13:52:26 Informational] Log file: file:///C:/Users/Mahlomola/source/repos/UnitTestProject1pizza/TestResults/Unnamed%20project__2021-10-06T135225.log
+[2021/10/06 13:52:26 Informational] SpecFlow+Runner execution finished
+[2021/10/06 13:52:28 Informational] ========== Run test finished: 1 run (0:00:07,8784152) ==========
+[2021/10/06 14:22:49 Informational] ------ Discover test started ------
+[2021/10/06 14:23:25 Informational] NUnit Adapter 3.17.0.0: Test discovery starting
+[2021/10/06 14:23:43 Informational] NUnit Adapter 3.17.0.0: Test discovery complete
+[2021/10/06 14:24:09 Warning] No test is available in C:\Users\Mahlomola\source\repos\UnitTestProject1pizza\UnitTestProject1pizza\UnitTestProject1pizza.csproj. Make sure that test discoverer & executors are registered and platform & framework version settings are appropriate and try again.
+[2021/10/06 14:24:10 Informational] ========== Discover test finished: 1 found (0:01:20,631739) ==========
+[2021/10/06 14:24:10 Informational] ------ Run test started ------
+[2021/10/06 14:24:15 Informational] NUnit Adapter 3.17.0.0: Test execution started
+[2021/10/06 14:24:15 Informational] Running all tests in C:\Users\Mahlomola\source\repos\UnitTestProject1pizza\UnitTestProject1pizza\bin\Debug\UnitTestProject1pizza.dll
+[2021/10/06 14:24:16 Informational]    NUnit3TestExecutor discovered 0 of 0 NUnit test cases
+[2021/10/06 14:24:16 Informational] NUnit Adapter 3.17.0.0: Test execution complete
+[2021/10/06 14:24:18 Informational] SpecFlow+Runner execution started
+[2021/10/06 14:24:18 Informational] SpecFlow+Runner 3.9.7 in Framework clr40 in x86 mode execution started
+[2021/10/06 14:24:18 Informational] TestAdapter Location: C:\Users\Mahlomola\source\repos\UnitTestProject1pizza\packages\SpecRun.Runner.3.9.7\tools\net461\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+[2021/10/06 14:24:18 Informational] Current UserName: 'Mahlomola', MachineName: 'LAPTOP-P2LGTPPP'
+[2021/10/06 14:24:18 Informational] SpecRun: running tests in C:\Users\Mahlomola\source\repos\UnitTestProject1pizza\UnitTestProject1pizza\bin\Debug\UnitTestProject1pizza.dll
+[2021/10/06 14:24:18 Informational] Output folder configured to "C:\Users\Mahlomola\source\repos\UnitTestProject1pizza\TestResults" (default)
+[2021/10/06 14:24:18 Informational] Profile: 
+[2021/10/06 14:24:18 Informational] Log file path: C:\Users\Mahlomola\source\repos\UnitTestProject1pizza\TestResults\Unnamed project__2021-10-06T142418.log
+[2021/10/06 14:24:18 Informational] Checking activation
+[2021/10/06 14:24:23 Error] ****************************************************************************************************************
+[2021/10/06 14:24:23 Error] *                                           SpecFlow+ Runner                                                   *
+[2021/10/06 14:24:23 Error] ****************************************************************************************************************
+[2021/10/06 14:24:23 Error] Please sign-up for your free SpecFlow account or sign-in with your already existing account here:
+[2021/10/06 14:24:23 Error] https://account.specflow.org/clientactivation/welcome/Runner/0FB10A797D8E4FCC8964F46F707675CD81C1977C9B2C7CA174F59F327FAB5FADAFCF6184/NotActivatedYet
+[2021/10/06 14:24:23 Error] to execute your Scenarios again.
+[2021/10/06 14:24:23 Error] If you are reading this message on a build agent, we couldn't recognize the agent.
+[2021/10/06 14:24:23 Error] Please get in touch with us at support@specflow.org.
+[2021/10/06 14:24:23 Error] ****************************************************************************************************************
+[2021/10/06 14:24:23 Error] No tests executed (activation needed)
+[2021/10/06 14:24:23 Informational] Result: tests executed with warnings
+[2021/10/06 14:24:23 Informational]   Total: 0
+  Succeeded: 0
+  Ignored: 0
+  Pending: 0
+  Skipped: 0
+  Failed: 0
+
+  Execution Time: 00:00:00
+[2021/10/06 14:24:23 Informational] Adding attachments to VSTest
+[2021/10/06 14:24:23 Informational] Log file: file:///C:/Users/Mahlomola/source/repos/UnitTestProject1pizza/TestResults/Unnamed%20project__2021-10-06T142418.log
+[2021/10/06 14:24:23 Informational] SpecFlow+Runner execution finished
+[2021/10/06 14:24:23 Informational] ========== Run test finished: 1 run (0:00:13,5940412) ==========
+[2021/10/06 14:28:46 Informational] ------ Discover test started ------
+[2021/10/06 14:29:17 Warning] No test is available in C:\Users\Mahlomola\source\repos\Pizzalitos\Pizzalitos\Pizzalitos.csproj C:\Users\Mahlomola\source\repos\PizzaStoreOnline\PizzaStoreOnline\PizzaStoreOnline.csproj. Make sure that test discoverer & executors are registered and platform & framework version settings are appropriate and try again.
+[2021/10/06 14:29:18 Informational] ========== Discover test finished: 0 found (0:00:31,741854) ==========
+[2021/10/06 14:29:29 Informational] ------ Discover test started ------
+[2021/10/06 14:29:36 Warning] No test is available in C:\Users\Mahlomola\source\repos\PizzaStoreOnline\PizzaStoreOnline\PizzaStoreOnline.csproj. Make sure that test discoverer & executors are registered and platform & framework version settings are appropriate and try again.
+[2021/10/06 14:29:36 Informational] ========== Discover test finished: 0 found (0:00:06,7419551) ==========
+[2021/10/06 14:56:52 Informational] ------ Discover test started ------
+[2021/10/06 14:58:02 Warning] No test is available in C:\Users\Mahlomola\source\repos\PizzaStoreOnline\PizzaStoreOnline\PizzaStoreOnline.csproj C:\Users\Mahlomola\source\repos\PizzaStoreOnline\testing\testing.csproj. Make sure that test discoverer & executors are registered and platform & framework version settings are appropriate and try again.
+[2021/10/06 14:58:03 Informational] ========== Discover test finished: 1 found (0:01:10,7348965) ==========
+[2021/10/06 14:58:03 Informational] ------ Run test started ------
+[2021/10/06 14:58:12 Informational] ========== Run test finished: 1 run (0:00:08,9508286) ==========
